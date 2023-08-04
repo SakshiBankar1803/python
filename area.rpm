@@ -1,3 +1,5 @@
+//accept radius from user and print area of circle using python
+
 r=float(input("enter radius::"))
 a=3.14*r*r
 print("area of circle=",a)
