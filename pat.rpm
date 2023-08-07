@@ -1,0 +1,19 @@
+s=input("enter string::")
+for i in range(0,len(s)+1):
+        print(s[:i])
+
+
+
+//output::
+//enter string::shrirampur
+
+//s
+//sh
+//shr
+//shri
+//shrir
+//shrira
+//shriram
+//shriramp
+//shrirampu
+//shrirampur

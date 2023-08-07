@@ -1,0 +1,16 @@
+s=input("enter string::")
+for i in range(0,len(s)):
+        print(s[i*1])
+        
+ 
+ 
+ 
+ //output::       
+// enter string::sakshi
+//s
+//a
+//k
+//s
+//h
+//i
+
