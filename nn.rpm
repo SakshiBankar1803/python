@@ -1,0 +1,14 @@
+
+n=input("enter limit")
+n=int(n)
+a=[]
+for i in range (0,n):
+    num=int(input("enter number"))
+    a.append(num)
+    print("number=",a)
+    x=int(input("enter number to search"))
+    if x in a:
+        print("found")
+    else:
+        print("not found")
+        
