@@ -1,0 +1,68 @@
+def calculate(a,b):
+    q=a/b
+    r=a%b
+    print("quotient =",q)
+    print("remainder=",r)
+   
+calculate(22,4)
+
+
+def area(r):
+    area=3.14*r*r
+    c=2*3.14*r
+    print("area of circle=",area)
+    print("circumference of circle=",c)
+    
+area(2.4)
+
+x=True
+y=False
+z=x & y
+print(z)
+
+x=True
+y=True
+z=x&y
+print(z)
+
+x=False
+y=True
+z=x&y
+print(z)
+
+x=False
+y=False
+z=x&y
+print(z)
+
+x=True
+y=True
+z=x|y
+print(z)
+
+x=True
+y=False
+z=x|y
+print(z)
+
+x=False
+y=True
+z=x|y
+print(z)
+
+x=False
+y=False
+z=x|y
+print(z)
+
+x=False
+y=False
+z=(x|y) &(not x or not y)
+print(z)
+
+x=True
+y=True
+z=False
+(x|y) and z
+(x and y) or not z
+(x and not y)or (x and z)

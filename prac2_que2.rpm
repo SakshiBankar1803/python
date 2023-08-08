@@ -1,0 +1,7 @@
+def area(r):
+    area=3.14*r*r
+    c=2*3.14*r
+    print("area of circle=",area)
+    print("circumference of circle=",c)
+    
+area(2.4)

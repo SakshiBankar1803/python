@@ -1,0 +1,7 @@
+def calculate(a,b):
+    q=a/b
+    r=a%b
+    print("quotient =",q)
+    print("remainder=",r)
+   
+calculate(22,4)
