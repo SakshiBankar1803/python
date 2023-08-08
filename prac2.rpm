@@ -1,7 +1,5 @@
 
-Q 1::
-
-a)
+Q 1)
 def calculate(a,b):
     q=a/b
     r=a%b
@@ -10,7 +8,7 @@ def calculate(a,b):
    
 calculate(22,4)
 
-b)
+Q 2)
 def area(r):
     area=3.14*r*r
     c=2*3.14*r
