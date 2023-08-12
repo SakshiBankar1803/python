@@ -17,51 +17,62 @@ def area(r):
     
 area(2.4)
 
+Q 4)
+a)
 x=True
 y=False
 z=x & y
 print(z)
 
+b)
 x=True
 y=True
 z=x&y
 print(z)
 
+c)
 x=False
 y=True
 z=x&y
 print(z)
 
+d)
 x=False
 y=False
 z=x&y
 print(z)
 
+e)
 x=True
 y=True
 z=x|y
 print(z)
 
+f)
 x=True
 y=False
 z=x|y
 print(z)
 
+g)
 x=False
 y=True
 z=x|y
 print(z)
 
+h)
 x=False
 y=False
 z=x|y
 print(z)
 
+Q 5)
 x=False
 y=False
 z=(x|y) &(not x or not y)
 print(z)
 
+Q 6)
 x=True
 y=True
 z=False
