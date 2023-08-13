@@ -1,3 +1,5 @@
+Que:write a function to calculate addition of two numbers using python....
+
 def add(a,b):
     c=a+b
     print("addition=",c)
