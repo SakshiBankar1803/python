@@ -1,3 +1,5 @@
+Que:check number present or not
+
 
 n=input("enter limit")
 n=int(n)
