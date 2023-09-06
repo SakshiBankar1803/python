@@ -1,4 +1,4 @@
-// Que:accept a number and check it is even or odd using python....
+// QUE::accept a number and check it is even or odd using python..
 
 a=int(input("enter number"))
 if a%2==0:
