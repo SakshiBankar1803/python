@@ -1,12 +1,12 @@
-a=['om','sai','aman','sham']
-type(a)
+t=['om','sai','aman','sham']
+type(t)
 
-print(a)
+print(t)
 
-a=['om','sai','aman','sham',"ram"]
-print(a[0])
-print(a[-2])
-print(a[4])
+t=['om','sai','aman','sham',"ram"]
+print(t[0])
+print(t[-2])
+print(t[4])
 
 s=["sai",[11,22,33,89,45],"php","sE","rd"]
 print(s)
