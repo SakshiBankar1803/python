@@ -1,4 +1,4 @@
-Que:check number present or not
+QUE:check number present or not
 
 
 n=input("enter limit")
