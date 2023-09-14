@@ -1,4 +1,5 @@
 
+//QUE:print  number using function
 
 n=int(input("enter limit::"))
 a=[]
