@@ -1,3 +1,5 @@
+//QUE:define a function that find remainder and quotient of a given number....
+
 def calculate(a,b):
     q=a/b
     r=a%b
